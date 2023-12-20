@@ -1,6 +1,6 @@
-Hablar 
-helps you to learn new language by watching videos and having fun
-has a client system and teachers system to add their lessons
+Hosting mangment system 
+allow clients to buy new hosting plan or upgrade it while having full control on the hosting plan
+have a support system & AI support
 
 
 
@@ -24,7 +24,6 @@ The following tools were used in the construction of the project:
 - [Vuetify.js](https://vuetifyjs.com/)
 
 
-Please make sure to update tests as appropriate.
 
 ## 👷‍♂️ Author
 <a href="https://github.com/aeham-alkhateb">
