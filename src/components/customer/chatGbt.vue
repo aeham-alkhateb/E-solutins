@@ -100,7 +100,7 @@ export default {
                         },
                         {
                             headers: {
-                                Authorization: 'Bearer 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',
+                                Authorization: '',
                                 'Content-Type': 'application/json',
                             },
                         }
